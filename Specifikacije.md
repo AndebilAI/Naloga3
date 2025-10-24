@@ -17,3 +17,12 @@
 2. Javascript animacije *Stran bo animirana v odzadju ko drsiš po spletni strani* &#127902;
 3. Video predvajalnik *Na nekak način se moramo predstaviti! zato je tudi tu z namenom prikazovanja našega podjetja* &#128250;
 4. Chatbot Golbi *Spoznaj našega inovativnega in enoličnega pogovornega partnerja Golbi! Ker naš Golbi predstavlja podjetje, bo tudi ti prišel na pomoč, če jo uporabnik išče* &#128330;
+
+### Izgled
+
+* Header naj bo moder
+* **Footer naj vsebuje kontaktne informacije**
+* **Logotip naj bo na sredini v headerju**
+* Slike naj bodo na sredini
+
+  [Pri razvoju bi se zgledovali po spletni strani Activision.](https://www.activision.com/)
